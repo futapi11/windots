@@ -1,2 +1,2 @@
 # windots
-windows dotfiles
+My windows dotfiles. Currently incomplete.
