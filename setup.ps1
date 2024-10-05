@@ -1,1 +1,1 @@
-winget install Git.Git LGUG2Z.komorebi LGUG2Z.whkd Cloudflare.Warp GitHub.cli AutoHotkey.AutoHotkey 9MSMLRH6LZF3
+winget install Git.Git LGUG2Z.komorebi LGUG2Z.whkd Cloudflare.Warp GitHub.cli AutoHotkey.AutoHotkey 9MSMLRH6LZF3 Valve.Steam
